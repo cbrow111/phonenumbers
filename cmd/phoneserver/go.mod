@@ -1,12 +1,12 @@
-module github.com/nyaruka/phonenumbers/cmd/phoneserver
+module github.com/cbrow111/phonenumbers/cmd/phoneserver
 
 go 1.19
 
-replace github.com/nyaruka/phonenumbers => ../../
+replace github.com/cbrow111/phonenumbers => ../../
 
 require (
 	github.com/aws/aws-lambda-go v1.13.1
-	github.com/nyaruka/phonenumbers v0.0.0-00010101000000-000000000000
+	github.com/cbrow111/phonenumbers v0.0.0-00010101000000-000000000000
 )
 
 require (
