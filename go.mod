@@ -1,7 +1,8 @@
-module github.com/nyaruka/phonenumbers
+module github.com/cbrow111/phonenumbers
 
 require (
 	github.com/golang/protobuf v1.3.2
+	github.com/nyaruka/phonenumbers v1.1.8
 	github.com/stretchr/testify v1.7.1
 	golang.org/x/text v0.3.8
 )
